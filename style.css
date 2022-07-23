@@ -58,6 +58,13 @@ h2{
 #baby-web-developer{
     border-left: 7px solid blue;
 }
+.experience-item img{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+
 
 footer p{
     text-align: center;
